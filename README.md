@@ -1,4 +1,4 @@
 <picture>
-  <source srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
+  <source srcset="github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-contribution-grid-snake.svg">
 </picture>
