@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/linsmik/linsmik/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/linsmik/linsmik/main/github-contribution-grid-snake.svg)
